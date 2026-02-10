@@ -43,4 +43,3 @@ It processes crop images, trains multiple machine learning algorithms, and accur
 * Gain practical experience in ML model training, evaluation, and deployment.
 
 
-Do you want me to do that?
