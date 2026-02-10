@@ -26,7 +26,6 @@ It processes crop images, trains multiple machine learning algorithms, and accur
 * **Pandas & NumPy** – Data handling and analysis
 * **Matplotlib / Seaborn** – Visualization of results
 
----
 
 ## How It Works
 
@@ -36,7 +35,6 @@ It processes crop images, trains multiple machine learning algorithms, and accur
 4. Evaluate models using metrics such as accuracy, precision, recall, and F1-score.
 5. Compare performance to select the most effective model for disease classification.
 
----
 
 ## Purpose of the Project
 
@@ -44,8 +42,5 @@ It processes crop images, trains multiple machine learning algorithms, and accur
 * Compare performance of classical ML algorithms and neural networks.
 * Gain practical experience in ML model training, evaluation, and deployment.
 
----
-
-If you want, I can **create a fully formatted downloadable Word file for you**, with headings, bullets, and proper spacing already done, so you don’t even need to copy-paste.
 
 Do you want me to do that?
